@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Lawal Saheed! 👋
 
-<!--
-**sacrown01/sacrown01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Support Engineer with a background in Pure Mathematics, and I have a passion for technology and problem-solving. I have experience in:
 
-Here are some ideas to get you started:
+- 🖥️ Networking (Router Configuration, Network Troubleshooting)
+- 🔧 Hardware Repair and Software Installation
+- 📡 IP Configuration and Camera Installation
+- 💻 Technical Support and OS Installation
+- 📚 Certifications: AWS Cloud Technical Essentials, Introduction to Cybersecurity, Cloud Security Knowledge, and Jobberman Soft Skill Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Always Learning
+
+I am continuously learning new technologies and improving my skills in cloud computing, cybersecurity, and network management.
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/lawal-saheed) 
+- [Twitter](https://twitter.com/adeolu_lawal)
+
+Feel free to connect with me!
